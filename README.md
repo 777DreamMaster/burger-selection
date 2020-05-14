@@ -18,4 +18,4 @@
 <code>1 2 0 ... etc and so on</code>
 <p>For example: 1 - is wearing a suit, 0 - is't wearing a suit; 2 - blond hair, 1 - dark hair, 0 - red hair; 1 - alone; 0 - with smb; etc</p>
 <h5>Output</h5>
-<code>cheeseburger</h5>
+<code>cheeseburger</code>
