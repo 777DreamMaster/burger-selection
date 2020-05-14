@@ -13,7 +13,7 @@
   <li>Using "Fast Artificial Neural Network" Library (FANN), "Fannj" and "Java Native Access"</li>
   <li>Using a cashier or electronic terminal as a “trainer” (in the real case)</li>
 </ul> 
-<h4>A Short Example Using AI<h4>
+<h4>A Short Example Using AI</h4>
 <h5>Input</h5>
 <code>1 2 0 ... etc and so on</code>
 <p>For example: 1 - is wearing a suit, 0 - is't wearing a suit; 2 - blond hair, 1 - dark hair, 0 - red hair; 1 - alone; 0 - with smb; etc</p>
