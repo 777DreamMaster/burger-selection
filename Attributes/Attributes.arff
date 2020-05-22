@@ -1,0 +1,34 @@
+@relation burger.dataset
+@attribute Gender numeric
+@attribute Weight numeric
+@attribute Height numeric
+@attribute Physique numeric
+@attribute FootSize numeric
+@attribute Mood numeric
+@attribute GaitStyle numeric
+@attribute FaceShape numeric
+@attribute NoseShape numeric
+@attribute EarsShape numeric
+@attribute MouthShape numeric
+@attribute ChinShape numeric
+@attribute EyebrowsShape numeric
+@attribute Nationality numeric
+@attribute EyesColor numeric
+@attribute HairColor numeric
+@attribute HairLenght numeric
+@attribute Clothes numeric
+@attribute Companions numeric
+@attribute Makeup numeric
+@attribute WithPurchases numeric
+@attribute Headdress numeric
+@attribute Beard numeric
+@attribute Glasses numeric
+@attribute Student numeric
+@attribute Accessories numeric
+@attribute Age numeric
+@attribute Mustache numeric
+@attribute OfficeWorker numeric
+@attribute Species {'chickenburger', 'humburger', 'cheeseburger'}
+@data
+
+
