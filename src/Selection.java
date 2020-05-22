@@ -7,7 +7,7 @@ public class Selection {
     public static void main(String[] args) throws Exception {
         //load training dataset
         //select path to train arff
-        DataSource source = new DataSource("/Users/John/IdeaProjects/burger-selection/dataset/Atr_train.arff");
+        DataSource source = new DataSource("dataset/Atr_train.arff");
         Instances trainDataset = source.getDataSet();
         //set class index to the last attribute
         trainDataset.setClassIndex(trainDataset.numAttributes()-1);
@@ -25,7 +25,7 @@ public class Selection {
 
         //load new dataset
         //select path to test arff
-        DataSource source1 = new DataSource("/Users/John/IdeaProjects/burger-selection/dataset/Atr_test.arff");
+        DataSource source1 = new DataSource("dataset/Atr_test.arff");
         Instances testDataset = source1.getDataSet();
         //set class index to the last attribute
         testDataset.setClassIndex(testDataset.numAttributes()-1);
